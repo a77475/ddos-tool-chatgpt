@@ -8,3 +8,4 @@ $git clone github.com/a77475/ddos-tool-chatgpt
 $cd ddos-tool-chatgpt
 to run and tool enter
 $python3 ddos-chatgpt(choose your version here)
+some of them i will test later
